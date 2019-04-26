@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="330" height="110" vieBox="0 0 330 110" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="loggo-img" id="logo">
+  <title>Logo</title>
+  <polygon cx="179.5" cy="216.5" fill="#ff007f" id="svg_4" opacity="0.75" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="2" strokecolor="#000000"/>
+  <polygon cx="195.5" cy="103.5" fill="#ff007f" id="svg_5" opacity="0.75" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="2" strokecolor="none"/>
+  <polygon cx="209.5" cy="80.5" fill="#ff007f" id="svg_6" opacity="0.75" orient="point" point="5" points="209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 209.5,80.5 " r="0" r2="0" shape="star" stroke-width="2" strokeWidth="2" strokecolor="none"/>
+  <polygon cx="214.5" cy="60.5" fill="#ff007f" id="svg_7" opacity="0.75" orient="point" point="5" points="214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 214.5,60.5 " r="0" r2="0" shape="star" stroke-width="2" strokeWidth="2" strokecolor="none"/>
+  <rect fill="#FF0000" height="64.000001" id="svg_8" opacity="0.75" stroke="#0000bf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="288.000009" x="32.499991" y="42.499997"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.91819 0 0 2.55503 -773.669 -95.1851)" x="193.5" xml:space="preserve" y="73.5">LFRP</text>
+ </g>
+</svg>
